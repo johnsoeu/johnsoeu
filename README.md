@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eugene
 - 👀 I’m interested in photography based solutions
-- 🌱 I’m currently learning Metadata
+- 🌱 I’m currently learning RAW Image Metadata
 - 💞️ I’m looking to collaborate on Shot Card Application to generate shot cards for photoshoots from existing photographs.
 
 <!---
